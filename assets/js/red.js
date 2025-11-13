@@ -4,5 +4,5 @@ setTimeout(function() {
 }, 1000);
 
 setTimeout(function() {
-    window.location.href = 'https://your-target-url.com';
+    window.location.href = '/j/index.html';
 }, 5000);
